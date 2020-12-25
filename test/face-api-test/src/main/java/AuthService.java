@@ -11,6 +11,7 @@ import java.util.Map;
 
 /**
  * 获取token类
+ *auth:zwy
  */
 public class AuthService{
     public static void main(String[] args){

@@ -1,0 +1,16 @@
+
+•
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç§¢û
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²¾ôê
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÃ¤€øÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íõåˆùÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óõÖï
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×¹¯€
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆäš¸ÿÿÿÿÿ
+1
+java:S1118"Hide this public constructor.(Ç§¢û
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Å—«ûÿÿÿÿ
+d	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+D
+java:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ

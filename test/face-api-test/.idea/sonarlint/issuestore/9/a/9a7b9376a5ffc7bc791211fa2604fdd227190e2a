@@ -1,0 +1,19 @@
+
+q	java:S116"URename this field "image_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ô‘¹8ÌÓàêè.
+0
+java:S1220""Move this file to a named package.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ÜÖ8§‹æêè.
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜»õö8§‹æêè.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¡ü8§‹æêè.
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤­³‘øÿÿÿÿ8§‹æêè.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘Î–şÿÿÿÿ8§‹æêè.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âã¼‚ÿÿÿÿÿ8§‹æêè.
+u	java:S116"TRename this field "face_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Õõ¸şÿÿÿÿ8ÌÓàêè.
+v	java:S116"ZRename this field "quality_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÓìÔ8¹çêè.
+o	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„·‹äøÿÿÿÿ8§‹æêè.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘Î–şÿÿÿÿ8§‹æêè.
+r	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„·‹äøÿÿÿÿ8§‹æêè.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¡ü8§‹æêè.
+i	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Çî[8§‹æêè.
+w	java:S116"[Rename this field "liveness_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»—áĞ8¹çêè.
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤­³‘øÿÿÿÿ8§‹æêè.

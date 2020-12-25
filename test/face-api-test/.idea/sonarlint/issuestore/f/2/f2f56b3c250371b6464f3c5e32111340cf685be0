@@ -1,0 +1,14 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ë°£¨8í˜Ÿìè.
+0
+java:S1220""Move this file to a named package.
+l
+java:S2674J"JCheck the return value of the "read" call to see how many bytes were read.(¯¾Êÿÿÿÿÿ8’—ìè.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ÖÊÊä8Äƒ¤òè.
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(İµ)8í÷“óè.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¬àõğûÿÿÿÿ8üó­òè.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¶â½8¨©’óè.
+j
+java:S2095H"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(£ççØ8’—ìè.
+X	java:S125%"<This block of commented-out lines of code should be removed.(öò8ñäµìè.
+X	java:S125("<This block of commented-out lines of code should be removed.(ëÅ¤ô8ñäµìè.

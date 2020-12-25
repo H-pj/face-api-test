@@ -1,0 +1,24 @@
+
+L	java:S106"9Replace this use of System.out or System.err by a logger.(éğßø
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(±¼­øÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(»•â«ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ó“û³
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ‚®ª
+`
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¤È‡l
+L	java:S106"9Replace this use of System.out or System.err by a logger.(±˜Š´
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¥¾Åõ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ßËü
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‡áÄş
+c
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(¯¾Êÿÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(æš›úÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(”ìÁŞşÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ¹ñøÿÿÿÿ
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ÃÉı
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‡øû°üÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ë«á‘
+0
+java:S1220""Move this file to a named package.
+L	java:S106"9Replace this use of System.out or System.err by a logger.(–®ƒ 

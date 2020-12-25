@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Îã­Ã8›³¶Îè.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Çü¹ûÿÿÿÿ8›³¶Îè.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…êòÇ8›³¶Îè.
+<
+java:S1643"Use a StringBuilder instead.(¦í°—øÿÿÿÿ8›³¶Îè.
+j	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜèË$8›³¶Îè.
+7
+java:S1220""Move this file to a named package.8¨İ¹Îè.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ì‡†8›³¶Îè.
+@
+java:S3457"%String contains no format specifiers.(…êòÇ8›³¶Îè.
+~
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "access_token".(ÜèË$8›³¶Îè.
+T
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8›³¶Îè.
